@@ -50,3 +50,16 @@ blockquote {
     text-align: center;
     padding: 1em 0;
 }
+.header {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    padding: 1em;
+    text-align: center;
+}
+
+.header-logo {
+    max-width: 200px; /* Adjust the maximum width of the logo */
+    height: auto;
+    
+}
+
