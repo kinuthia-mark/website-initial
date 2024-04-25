@@ -58,8 +58,8 @@ blockquote {
 }
 
 .header-logo {
-    max-width: 200px; /* Adjust the maximum width of the logo */
-    height: auto;
+    max-width: 100px; /* Adjust the maximum width of the logo */
+    height: 100px;
     
 }
 
