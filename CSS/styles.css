@@ -1,0 +1,52 @@
+/* Reset some default styles */
+body, h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #ECF0F1;
+}
+
+.header {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    padding: 1em;
+    text-align: center;
+}
+
+.navigation ul {
+    list-style-type: none;
+}
+
+.navigation ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.navigation a {
+    color: #ECF0F1;
+    text-decoration: none;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.intro, .services, .testimonial {
+    margin-bottom: 30px;
+}
+
+blockquote {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    text-align: center;
+    padding: 1em 0;
+}
